@@ -662,7 +662,7 @@
     },
     {
       "id": 67,
-      "name": "Bednar - Yundt",
+      "name": "Bednar - Yundt Updated",
       "description": "Reactive secondary protocol. Cumque fugiat reprehenderit commodi et ea voluptas aliquid facere placeat.",
       "imageUrl": "/assets/placeimg_500_300_arch6.jpg",
       "contractTypeId": 4,
@@ -932,13 +932,13 @@
     },
     {
       "id": 94,
-      "name": "Hartmann - Wintheiser",
+      "name": "Hartmannnnn",
       "description": "Face to face static conglomeration. Et ullam ad eaque commodi maiores facere quos nesciunt laudantium.",
       "imageUrl": "/assets/placeimg_500_300_arch5.jpg",
       "contractTypeId": 6,
       "contractSignedOn": "2017-03-28T16:05:32.780Z",
       "budget": 63025,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": 95,
